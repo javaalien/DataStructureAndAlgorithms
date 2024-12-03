@@ -1,7 +1,5 @@
 package com.alien.linkedlist;
 
-import java.awt.geom.CubicCurve2D;
-
 // Write a Java program to reverse a singly linked list
 
 class Node {
